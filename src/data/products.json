@@ -1,0 +1,53 @@
+{
+    "products": [
+        {
+            "id" : 36254856,
+            "picture": "https://dkstatics-public.digikala.com/digikala-products/a8234e915f4f6ed119daac830e39eca031d62c2d_1705751969.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+            "title": "گوشی موبایل سامسونگ مدل Galaxy S24 Ultra دو سیم کارت ظرفیت 256 گیگابایت و رم 12 گیگابایت - ویتنام ",
+            "rank": 4.4,
+            "price": "60099000"
+        },
+        {
+            "id" : 23652548,
+            "picture": "https://dkstatics-public.digikala.com/digikala-products/0cff83999e4e1cbdaa329e3d172faa8b3c6f7877_1710578899.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+            "title": "گوشی موبایل سامسونگ مدل Galaxy A55 دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت - ویتنام",
+            "rank": 4.4,
+            "price": "20129000"
+        },
+        {
+            "id" : 26585475,
+            "picture": "https://dkstatics-public.digikala.com/digikala-products/6aafaa9bdd90449f061a29c6c13641d94bb50325_1704181192.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+            "title": "گوشی موبایل سامسونگ مدل Galaxy A15 دو سیم کارت ظرفیت 128 گیگابایت و رم 6 گیگابایت - ویتنام",
+            "rank": 4.3,
+            "price": "8485000"
+        },
+        {
+            "id" : 15236485,
+            "picture": "https://dkstatics-public.digikala.com/digikala-products/bd7648d55ffe49a0596ac3668f4db41f7c790f6a_1696760508.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+            "title": "گوشی موبایل سامسونگ مدل Galaxy S23 FE دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت - ویتنام",
+            "rank": 4.4,
+            "price": "28440000"
+        },
+        {
+            "id" : 26458759,
+            "picture": "https://dkstatics-public.digikala.com/digikala-products/f6e5b4835d21b07b18ef8ed5401d617fb5225b41_1710573514.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+            "title": "گوشی موبایل سامسونگ مدل Galaxy A35 دو سیم کارت ظرفیت 128 گیگابایت رم 8 گیگابایت - ویتنام",
+            "rank": 3,
+            "price": "14650000"
+        },
+        {
+            "id" : 23652485,
+            "picture": "https://dkstatics-public.digikala.com/digikala-products/f46366b077ec88987b89319fdd6f8dc3f7be58ad_1704267676.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+            "title": "گوشی موبایل سامسونگ مدل Galaxy A25 دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت - ویتنام",
+            "rank": 4.2,
+            "price": "12860000"
+        },
+        {
+            "id" : 26532658,
+            "picture": "https://dkstatics-public.digikala.com/digikala-products/111cc6ee905e968d1b4a950872c7d51321e0eb97_1698754713.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+            "title": "گوشی موبایل سامسونگ مدل Galaxy F54 5G دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت - اکتیو",
+            "rank": 4,
+            "price": "18800000"
+        }
+    ]
+}
